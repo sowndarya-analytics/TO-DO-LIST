@@ -1,5 +1,7 @@
 # 📝 To-Do List App (Streamlit)
 
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-green)](https://to-do-list-site.streamlit.app/)
+
 A lightweight and interactive To-Do List web app built using **Streamlit**, focusing on real-time UI updates and session-based state management.
 
 ## 🚀 Features
